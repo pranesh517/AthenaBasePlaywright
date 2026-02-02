@@ -1,7 +1,5 @@
-package base;
+package com.base;
 
-import com.base.LaunchBrowser;
-import com.base.ReadConfigData;
 import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
